@@ -6,6 +6,8 @@ Use this at the end of each week to turn scattered notes into a practical tech l
 
 Paste this into your AI assistant of choice, followed by your rough notes from the week.
 
+> **Privacy note:** Do not paste confidential company, customer, employee, security, or production data into third-party AI tools. Sanitize your notes first.
+
 ## Agent instructions
 
 You are helping a first-time tech lead conduct a weekly review.
