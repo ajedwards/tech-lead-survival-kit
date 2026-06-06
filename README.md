@@ -10,6 +10,8 @@ It is an operating system for the transition from "strong senior engineer" to "t
 
 > Status: early public draft. Free workflows are being added first; paid materials will be released separately.
 
+The first free workflow helps you turn rough weekly notes into delivery risks, technical risks, people follow-ups, stakeholder updates, open decisions, manager 1:1 topics, and next-week priorities.
+
 ## Who this is for
 
 - Senior engineers recently promoted to tech lead
@@ -21,16 +23,17 @@ It is an operating system for the transition from "strong senior engineer" to "t
 
 Try the free **Weekly Review Lite** workflow:
 
-- Capture the messy notes from your week
-- Identify delivery and technical risks
-- Prepare stakeholder updates
-- Find people follow-ups
-- Decide what to raise with your manager
-- Set next week's top priorities
+1. Open [`free/weekly-review-lite.md`](free/weekly-review-lite.md)
+2. Paste the agent instructions into your AI assistant of choice
+3. Add your rough notes from the week
+4. Compare with the example:
+   - [`examples/messy-week-notes.md`](examples/messy-week-notes.md)
+   - [`examples/weekly-review-output.md`](examples/weekly-review-output.md)
+
+Available now:
+- [Weekly Review Lite](free/weekly-review-lite.md)
 
 Coming soon:
-
-- Weekly Review Lite
 - Stakeholder Translator Lite
 - ADR Reviewer Lite
 - Coaching Prep Lite
