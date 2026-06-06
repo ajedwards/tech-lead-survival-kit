@@ -1,8 +1,8 @@
 # Tech Lead Survival Kit
 
-AI-augmented workflows for the messy jump from senior engineer to tech lead.
+AI-augmented people and technical leadership workflows for the messy jump from senior engineer to tech lead.
 
-This is a practical toolkit for first-time tech leads: templates, review loops, and agent instructions that help you manage delivery risk, technical decisions, stakeholder updates, code review, and people follow-ups.
+This is a practical toolkit for first-time tech leads: templates, review loops, and agent instructions that help you lead people through technical work — code review, delivery risk, technical decisions, stakeholder updates, coaching conversations, and team follow-ups.
 
 This is not a prompt pack.
 
@@ -10,7 +10,7 @@ It is an operating system for the transition from "strong senior engineer" to "t
 
 > **Status:** early public draft. Free workflows are being added first; paid materials will be released separately.
 
-The first free workflow helps you turn rough weekly notes into delivery risks, technical risks, people follow-ups, stakeholder updates, open decisions, manager 1:1 topics, and next-week priorities.
+The first free workflow helps you turn rough weekly notes into people follow-ups, delivery and technical risks, stakeholder updates, open decisions, manager 1:1 topics, coaching moments, and next-week priorities.
 
 ## Who this is for
 
@@ -43,21 +43,44 @@ Coming soon:
 
 If you try Weekly Review Lite, please [open an issue](../../issues) with what felt useful, generic, missing, or unrealistic in your real week.
 
+## What makes this different
+
+Most AI coding workflows help you write, review, or ship code faster.
+
+This project focuses on the part of technical leadership that happens around the code:
+
+- giving useful feedback
+- making risk visible before it turns into blame
+- preparing for difficult conversations
+- translating technical concerns into stakeholder language
+- deciding when to coach, when to pair, and when to escalate
+- building trust while still holding the quality bar
+
+The workflows are designed to help you think like a tech lead, not just produce more output.
+
 ## Why this exists
 
 Most first-time tech leads are promoted because they are technically strong.
 
 Then the job changes.
 
-Suddenly you are expected to:
-- keep delivery moving
-- review code without becoming a bottleneck
-- explain technical risk in business language
-- coach engineers without sounding like a fake manager
-- make architecture decisions under uncertainty
-- notice problems before they become escalations
+The hard part is not just making better technical decisions. It is learning how to lead people through technical uncertainty.
 
-The goal of this project is to make those operating loops explicit, reusable, and AI-assisted.
+Suddenly you are expected to:
+
+- review code in a way that improves quality without demoralising people
+- coach engineers without becoming their manager
+- spot delivery risk before it turns into blame
+- explain technical trade-offs in language stakeholders can act on
+- help quiet engineers surface concerns earlier
+- challenge defensive senior engineers without turning every disagreement into a power struggle
+- make decisions when ownership, authority, and information are all imperfect
+
+The goal of this project is to make those leadership loops explicit, reusable, and AI-assisted.
+
+AI should not replace your judgement or your relationships.
+
+It should help you prepare, reflect, communicate clearly, and notice the human dynamics you might otherwise miss.
 
 ## Free vs paid materials
 
