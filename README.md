@@ -2,7 +2,7 @@
 
 AI-augmented people and technical leadership workflows for the messy jump from senior engineer to tech lead.
 
-This is a practical toolkit for first-time tech leads: templates, review loops, and agent instructions that help you lead people through technical work — code review, delivery risk, technical decisions, stakeholder updates, coaching conversations, and team follow-ups.
+This is a practical toolkit for first-time tech leads: templates, review loops, and agent instructions that help you lead people through technical work - code review, delivery risk, technical decisions, stakeholder updates, coaching conversations, and team follow-ups.
 
 This is not a prompt pack.
 
