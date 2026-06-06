@@ -30,6 +30,8 @@ Try the free **Weekly Review Lite** workflow:
    - [`examples/messy-week-notes.md`](examples/messy-week-notes.md)
    - [`examples/weekly-review-output.md`](examples/weekly-review-output.md)
 
+> **Privacy note:** Do not paste confidential company, customer, employee, security, or production data into third-party AI tools. Sanitize your notes first.
+
 Available now:
 - [Weekly Review Lite](free/weekly-review-lite.md)
 
