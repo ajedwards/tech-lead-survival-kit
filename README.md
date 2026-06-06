@@ -8,7 +8,7 @@ This is not a prompt pack.
 
 It is an operating system for the transition from "strong senior engineer" to "trusted technical leader".
 
-> Status: early public draft. Free workflows are being added first; paid materials will be released separately.
+> **Status:** early public draft. Free workflows are being added first; paid materials will be released separately.
 
 The first free workflow helps you turn rough weekly notes into delivery risks, technical risks, people follow-ups, stakeholder updates, open decisions, manager 1:1 topics, and next-week priorities.
 
@@ -17,14 +17,14 @@ The first free workflow helps you turn rough weekly notes into delivery risks, t
 - Senior engineers recently promoted to tech lead
 - Tech leads in product teams without much formal leadership support
 - Engineers using AI tools who want better leadership workflows, not just faster code
-- Engineering managers looking for lightweight enablement material for new tech leads
+- Engineering managers looking for lightweight enablement materials for new tech leads
 
 ## Start here
 
 Try the free **Weekly Review Lite** workflow:
 
 1. Open [`free/weekly-review-lite.md`](free/weekly-review-lite.md)
-2. Paste the agent instructions into your AI assistant of choice
+2. Paste the agent instructions into Claude, ChatGPT, Codex, or another AI assistant
 3. Add your rough notes from the week
 4. Compare with the example:
    - [`examples/messy-week-notes.md`](examples/messy-week-notes.md)
@@ -40,6 +40,8 @@ Coming soon:
 - ADR Reviewer Lite
 - Coaching Prep Lite
 - Claude / ChatGPT / Codex adapters
+
+If you try Weekly Review Lite, please [open an issue](../../issues) with what felt useful, generic, missing, or unrealistic in your real week.
 
 ## Why this exists
 
@@ -67,4 +69,4 @@ See [`paid/README.md`](paid/README.md) for details.
 
 ## Feedback
 
-If you are a first-time tech lead or manage first-time tech leads, feedback is very welcome. Open an issue with what would make this more useful in your real week.
+If you are a first-time tech lead or manage first-time tech leads, feedback is very welcome. [Open an issue](../../issues) with what would make this more useful in your real week.
