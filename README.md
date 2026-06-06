@@ -54,8 +54,8 @@ The goal of this project is to make those operating loops explicit, reusable, an
 
 The free materials in this repository are licensed under the Apache License 2.0.
 
-Paid Tech Lead Survival Kit materials are distributed separately under a commercial licence and are not covered by this repository licence.
+Paid Tech Lead Survival Kit materials are distributed separately under a commercial license and are not covered by this repository license.
 
 See [`paid/README.md`](paid/README.md) for details.
 
-Paid Tech Lead Survival Kit materials are distributed separately under a commercial licence and are not covered by this repository licence.
+Paid Tech Lead Survival Kit materials are distributed separately under a commercial license and are not covered by this repository license.
