@@ -63,6 +63,3 @@ See [`paid/README.md`](paid/README.md) for details.
 ## Feedback
 
 If you are a first-time tech lead or manage first-time tech leads, feedback is very welcome. Open an issue with what would make this more useful in your real week.
-
-
-Paid Tech Lead Survival Kit materials are distributed separately under a commercial license and are not covered by this repository license.
